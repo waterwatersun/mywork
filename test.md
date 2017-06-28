@@ -62,6 +62,4 @@ custom_mark13
 
 **2. 网址URL中特殊字符转义编码，如%3A是：**
 
-**只能说Markdownpad软件对plantUML支持不好，在github上可以
-这种做法只在github可以，对比一下就知道了
-**
+**只能说Markdownpad软件对plantUML支持不好，在github上可以这种做法只在github可以，对比一下就知道了**
