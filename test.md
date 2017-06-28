@@ -61,3 +61,7 @@ custom_mark13
  **1. 这个地址，raw.githubusercontent.com是github用来存储用户上传文件（不是项目仓库的文件，而是issue里的图片之类的）的服务地址**
 
 **2. 网址URL中特殊字符转义编码，如%3A是：**
+
+**只能说Markdownpad软件对plantUML支持不好，在github上可以
+这种做法只在github可以，对比一下就知道了
+**
