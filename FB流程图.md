@@ -6,8 +6,7 @@
 <summary></summary>
 mark1
 @startuml;
-%28*%29 --> "First Activity";
-"First Activity" --> %28*%29;
+"First Activity" --> "2 Activity";
 @enduml
 mark1
 </details>
@@ -18,8 +17,7 @@ mark1
 <summary></summary>
 mark1
 @startuml;
-%28*%29 --> "First Activity";
-"First Activity" --> %28*%29;
+"First Activity" --> "2 Activity";
 @enduml
 mark1
 </details>
