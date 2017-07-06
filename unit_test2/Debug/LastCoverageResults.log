@@ -1,0 +1,50 @@
+[2017-07-07 00:49:36] [info] Start Program:
+Path:"unit_test2.exe"
+Arguments:
+Working directory: not set.
+Modules: Selected: * Excluded: 
+Sources: Selected: E:\eclipse_workspace\unit_test2 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Html 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+
+[2017-07-07 00:49:36] [info] Module: E:\eclipse_workspace\unit_test2\Debug\unit_test2.exe is selected because it matches selected pattern: *
+[2017-07-07 00:49:36] [warning] Cannot find pdb for E:\eclipse_workspace\unit_test2\Debug\unit_test2.exe
+[2017-07-07 00:49:36] [info] Module: C:\Windows\System32\ntdll.dll is selected because it matches selected pattern: *
+[2017-07-07 00:49:36] [warning] Cannot find pdb for C:\Windows\System32\ntdll.dll
+[2017-07-07 00:49:36] [info] Module: C:\Windows\SysWOW64\ntdll.dll is selected because it matches selected pattern: *
+[2017-07-07 00:49:36] [warning] Cannot find pdb for C:\Windows\SysWOW64\ntdll.dll
+[2017-07-07 00:49:36] [info] Module: C:\Windows\System32\wow64.dll is selected because it matches selected pattern: *
+[2017-07-07 00:49:36] [warning] Cannot find pdb for C:\Windows\System32\wow64.dll
+[2017-07-07 00:49:36] [info] Module: C:\Windows\System32\wow64win.dll is selected because it matches selected pattern: *
+[2017-07-07 00:49:36] [warning] Cannot find pdb for C:\Windows\System32\wow64win.dll
+[2017-07-07 00:49:36] [info] Module: C:\Windows\System32\wow64cpu.dll is selected because it matches selected pattern: *
+[2017-07-07 00:49:36] [warning] Cannot find pdb for C:\Windows\System32\wow64cpu.dll
+[2017-07-07 00:49:36] [info] Module: C:\Windows\System32\kernel32.dll is selected because it matches selected pattern: *
+[2017-07-07 00:49:36] [warning] Cannot find pdb for C:\Windows\System32\kernel32.dll
+[2017-07-07 00:49:36] [info] Module: C:\Windows\SysWOW64\kernel32.dll is selected because it matches selected pattern: *
+[2017-07-07 00:49:36] [warning] Cannot find pdb for C:\Windows\SysWOW64\kernel32.dll
+[2017-07-07 00:49:36] [info] Module: C:\Windows\System32\kernel32.dll is selected because it matches selected pattern: *
+[2017-07-07 00:49:36] [warning] Cannot find pdb for C:\Windows\System32\kernel32.dll
+[2017-07-07 00:49:36] [info] Module: C:\Windows\System32\user32.dll is selected because it matches selected pattern: *
+[2017-07-07 00:49:36] [warning] Cannot find pdb for C:\Windows\System32\user32.dll
+[2017-07-07 00:49:36] [info] Module: C:\Windows\SysWOW64\kernel32.dll is selected because it matches selected pattern: *
+[2017-07-07 00:49:36] [warning] Cannot find pdb for C:\Windows\SysWOW64\kernel32.dll
+[2017-07-07 00:49:36] [info] Module: C:\Windows\SysWOW64\KernelBase.dll is selected because it matches selected pattern: *
+[2017-07-07 00:49:36] [warning] Cannot find pdb for C:\Windows\SysWOW64\KernelBase.dll
+[2017-07-07 00:49:36] [info] Module: C:\Windows\SysWOW64\msvcrt.dll is selected because it matches selected pattern: *
+[2017-07-07 00:49:36] [warning] Cannot find pdb for C:\Windows\SysWOW64\msvcrt.dll
+[2017-07-07 00:49:36] [info] Module: D:\MinGW\bin\libgcc_s_dw2-1.dll is selected because it matches selected pattern: *
+[2017-07-07 00:49:36] [warning] Cannot find pdb for D:\MinGW\bin\libgcc_s_dw2-1.dll
+[2017-07-07 00:49:37] [info] Module: D:\MinGW\bin\libstdc++-6.dll is selected because it matches selected pattern: *
+[2017-07-07 00:49:37] [warning] Cannot find pdb for D:\MinGW\bin\libstdc++-6.dll
+[2017-07-07 00:49:37] [info] ----------------------------------------------------
+[2017-07-07 00:49:37] [info] Coverage generated in Folder E:\eclipse_workspace\unit_test2\Debug\CoverageReport-2017-07-07-00h49m37s
+[2017-07-07 00:49:37] [info] ----------------------------------------------------
+[2017-07-07 00:49:37] [error] Your program stop with error code: 1
